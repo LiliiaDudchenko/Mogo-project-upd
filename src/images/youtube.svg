@@ -1,0 +1,8 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 14" width="19" height="14">
+	<title>youtube</title>
+	<style>
+		tspan { white-space:pre }
+		
+	</style>
+	<path id="youtube" class="shp0" d="M15.54 1.52L10.31 1.52L4.88 1.52C3.52 1.52 2 2.43 2 3.76L2 10.38C2 11.71 3.52 12.52 4.88 12.52L10.42 12.52L15.54 12.52C16.9 12.52 18 11.71 18 10.38L18 3.76C18 2.43 16.9 1.52 15.54 1.52ZM8.96 9.57L8.93 4.53L12.44 7.07L8.96 9.57Z" />
+</svg>
